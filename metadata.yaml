@@ -18,6 +18,8 @@ creator:
     - http://fi.wikipedia.org/wiki/Minna_Canth
     - http://en.wikipedia.org/wiki/Minna_Canth
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13174#Sylvi--Kovan-onnen-lapsia
 gutenberg_issued: '2004-08-13'
 gutenberg_type: Text
 identifiers:
